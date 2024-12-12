@@ -78,7 +78,6 @@ public class MenuBookList {
                 String genre = genreField.getText();
                 String price = priceField.getText();
                 
-                Books book = Controller.createBuku(booksID judul, author, genre, price)
             }
         });
 
